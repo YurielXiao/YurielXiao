@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @YurielXiao
-- 👀 I’m interested in Alzheimer's disease progression prediction using neuroimaging data and machine/deep learning
-- 🌱 I’m currently learning deep learning and neuroimage
-- 💞️ I’m looking to collaborate on deep learning and neuroscience
-- 📫 How to reach me: yuriel.xiaoyu@gmail.com
+- 👋 Hi, I’m @YuXIAO
+- 👀 I’m interested in neuroimaging analysis, deep learning, machine learning
+- 🌱 I’m currently learning graph convolutional network
+- 💞️ I’m looking to collaborate on neuroscience & AI
+- 📫 How to reach me yuriel.xiaoyu@gmail.com
 
 <!---
 YurielXiao/YurielXiao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
