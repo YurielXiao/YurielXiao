@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @YurielXiao
 - 👋 Hi, I’m @YuXIAO
 - 👀 I’m interested in neuroimaging analysis, deep learning, machine learning
 - 🌱 I’m currently learning graph convolutional network
